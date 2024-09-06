@@ -1,6 +1,6 @@
 variable "mybucket" {
     type = string
-    description = "update bucket value for my bucket vinnyroy yadav"
+    description = "update bucket value for my bucket vinnyroy yadav ji"
     default = ""
   
 }
