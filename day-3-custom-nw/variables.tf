@@ -1,5 +1,5 @@
 variable "ami" {
-    description = "passing ami value"
+    description = "passing ami value from ami"
     type = string
     default = ""
   
